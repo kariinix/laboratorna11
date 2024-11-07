@@ -6,7 +6,6 @@ class CornerSlider extends StatelessWidget {
   final Function(double) onChanged;
 
   const CornerSlider({
-    Key? key,
     required this.label,
     required this.value,
     required this.onChanged,
